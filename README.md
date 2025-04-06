@@ -20,9 +20,8 @@ This Power BI project presents an interactive dashboard for analyzing job postin
 
 You can view a static PDF snapshot of the dashboard here:
 
-👉 [View Dashboard PDF](dashboard_view.pdf)
+👉 [View Dashboard PDF](Job search.pdf)
 
-> *(Make sure to upload `dashboard_view.pdf` to this repo)*
 
 ---
 
@@ -36,9 +35,9 @@ You can view a static PDF snapshot of the dashboard here:
 
 ## 📁 Files in this Repo
 
-- `job_market_dashboard.pbix` – Power BI file with all visuals
+- `Job Search.pbix` – Power BI file with all visuals
 - `cleaned_jobs_dataset.csv` – Preprocessed job posting data
-- `dashboard_view.pdf` – PDF snapshot of the dashboard
+- `Job Search.pdf` – PDF snapshot of the dashboard
 - `README.md` – Project documentation
 
 ---
